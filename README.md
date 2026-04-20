@@ -53,6 +53,6 @@ pip install torch torchvision scikit-learn numpy pandas matplotlib seaborn Pillo
 
 ## Usage
 
-1. Download the primary dataset from [Kaggle — Waste Classification Data](https://www.kaggle.com/datasets/techsash/waste-classification-data) and place it under `DATASET/` as shown above.
+1. Download the primary dataset from [Kaggle — Waste Classification Data](https://www.kaggle.com/datasets/techsash/waste-classification-data) and place it under `DATASET/`
 2. Run `BinVision.ipynb` end-to-end to train all models and save artifacts to `saved/`.
 3. To evaluate on TrashNet, download the resized dataset and run `inference_trashnet.ipynb`.
